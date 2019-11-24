@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://zhouchanggeng/zhouchanggeng.github.io/</link>
+    <link>https://zhouchanggeng.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Nov 2019 08:52:25 +0800</lastBuildDate>
     
-	<atom:link href="https://zhouchanggeng/zhouchanggeng.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zhouchanggeng.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://zhouchanggeng/zhouchanggeng.github.io/about/</link>
+      <link>https://zhouchanggeng.github.io/about/</link>
       <pubDate>Sun, 24 Nov 2019 08:52:25 +0800</pubDate>
       
-      <guid>https://zhouchanggeng/zhouchanggeng.github.io/about/</guid>
+      <guid>https://zhouchanggeng.github.io/about/</guid>
       <description> 作为我的技术博客网站，记录工作，学习中的心得和感悟  </description>
     </item>
     
     <item>
       <title>My_first_blog</title>
-      <link>https://zhouchanggeng/zhouchanggeng.github.io/post/my_first_blog/</link>
+      <link>https://zhouchanggeng.github.io/post/my_first_blog/</link>
       <pubDate>Sun, 24 Nov 2019 08:51:23 +0800</pubDate>
       
-      <guid>https://zhouchanggeng/zhouchanggeng.github.io/post/my_first_blog/</guid>
+      <guid>https://zhouchanggeng.github.io/post/my_first_blog/</guid>
       <description> 我的个人博客网站搭建成功啦！  </description>
     </item>
     
